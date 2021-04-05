@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "738565502470",
+    "firebase_url": "https://luisssummerschool-57dbb.firebaseio.com",
+    "project_id": "luisssummerschool-57dbb",
+    "storage_bucket": "luisssummerschool-57dbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738565502470:android:ae148d4cb051ea17",
+        "android_client_info": {
+          "package_name": "tech.icrossing.lsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738565502470-unc0a9efp1lkb8tqbj5dju4hpgjtnko5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrNQRvuPahBee4CU0m09T3SMGT9Ild0fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738565502470-unc0a9efp1lkb8tqbj5dju4hpgjtnko5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738565502470-cc07j00ermlf9i801c5lagmhg3hgoas3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tech.icrossing.lsm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738565502470:android:e5646c9c849fab3d",
+        "android_client_info": {
+          "package_name": "tech.icrossing.lsm.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738565502470-unc0a9efp1lkb8tqbj5dju4hpgjtnko5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrNQRvuPahBee4CU0m09T3SMGT9Ild0fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738565502470-unc0a9efp1lkb8tqbj5dju4hpgjtnko5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738565502470-cc07j00ermlf9i801c5lagmhg3hgoas3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tech.icrossing.lsm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
